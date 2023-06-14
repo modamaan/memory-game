@@ -140,6 +140,9 @@ color: transparent;
     gap: 20px;
     justify-content: center;
   }
+   .flip-card-back {
+    font-size: 40px;
+   } 
 }
 @media only screen and (min-width: 824px) {
   .container{
@@ -194,6 +197,9 @@ color: transparent;
     gap: 10px;
     justify-content: center;
   }
+   .flip-card-back {
+    font-size: 50px;
+   } 
 }
 @media only screen and (min-width: 1315px) {
   .container{
